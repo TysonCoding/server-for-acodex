@@ -1,6 +1,6 @@
 # AcodeX-Server
 
-Cli for **AcodeX** Plugin
+This is a server for **AcodeX** Plugin
 
 ## ChangeLogs
 
